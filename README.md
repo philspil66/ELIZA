@@ -1,6 +1,6 @@
 # ELIZA Archive
 
-This archive is a collection of code, scripts, and documents relating to the early natural language processing computer program ELIZA, and also contains a working recreation of ELIZA built using the original methodology. 
+This archive aims to be the most collection of code, scripts, and documents relating to the early natural language processing computer program ELIZA, and also contains a working recreation of ELIZA built using the original methodology. 
 
 ## About ELIZA
 
